@@ -1,7 +1,7 @@
 ## Sup! 👋🏻
 I'm _onefiver_, a programmer living in Spain. I try to build whatever comes to my mind.
 
-Currently working on a Discord library API wrapper called [uCord](https://github.com/onefiverdev/ucord), made in *Luau* for the [Lune](https://github.com/lune-org/lune) runtime using [Pesde](https://pesde.dev) as package manager.
+Currently working on a Discord library API wrapper called [uCord](https://github.com/onefiverdev/ucord), made in *Luau* for the [Lune](https://lute.luau.org/) runtime.
 
 --- 
 **🧑🏻‍💻 Technologies:**
