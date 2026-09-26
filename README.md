@@ -8,6 +8,3 @@ Currently working on a Discord library API wrapper called [uCord](https://github
 **✉️ Reach me through:**
 - Discord: [.onefiver](https://discord.com/users/957025829139939388)
 - Email: [onefiver.dev@gmail.com](mailto:onefiver.dev@gmail.com)
-
----
-Check my current project, [uCord](https://github.com/onefiverdev/ucord) a Discord library.
